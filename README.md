@@ -1,2 +1,2 @@
 # PO-Laboratoria
-Zadania z labów z programowania obiektowego.
+Różne zadanka z labów z programowania obiektowego na MIMUW.
