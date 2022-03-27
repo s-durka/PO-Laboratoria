@@ -1,3 +1,5 @@
+// Sito Arystotenesa
+// https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
 public class Sito{
 	private int max;
 	private int[] pierwsze;
