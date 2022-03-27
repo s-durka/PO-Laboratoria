@@ -1,2 +1,2 @@
 # PO-Laboratoria
-Różne zadanka z labów z programowania obiektowego na MIMUW.
+Różne projekty z programowania obiektowego w Javie
